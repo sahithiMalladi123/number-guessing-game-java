@@ -79,7 +79,7 @@ Congratulations! You guessed the correct number in 3 attempts.
 5.Building interactive console applications
 
 FUTURE IMPROVEMENTS:
-Difficulty levels
-Scoreboard system
-GUI version using Java Swing
-Multiplayer mode
+1.Difficulty levels
+2.Scoreboard system
+3.GUI version using Java Swing
+4.Multiplayer mode
