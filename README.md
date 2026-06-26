@@ -46,7 +46,7 @@ Eclipse
 Any Java IDE
 
 3. Compile The Program:
-javac DecodeLabs_java_p1.java
+javac numbergame.java
 
 4. Run the Program:
 java numberGame
